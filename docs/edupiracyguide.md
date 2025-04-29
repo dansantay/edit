@@ -157,6 +157,7 @@
 * [Erowid](https://www.erowid.org/) - Psychoactive Information
 * [PsychonautWiki](https://psychonautwiki.org/wiki/Main_Page) - Psychonautics Wiki
 * [Shroomery](https://www.shroomery.org/) - Magic Mushroom Forum
+* [Compute Expert](https://www.computeexpert.com/) - Excel Tutorials
 
 ***
 
